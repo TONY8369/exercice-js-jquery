@@ -1,0 +1,20 @@
+.color{
+    color: aqua;
+}
+.lol{
+    margin-top: 20px;
+}
+#droppable-4 { 
+    width: 150px; 
+    height: 150px; 
+    padding: 0.5em; 
+    /* float: left;  */
+    margin: 10px; 
+    background-color: yellow;
+}
+
+
+.scrollImage{
+    width: 100px;
+    height: 100px;
+}
